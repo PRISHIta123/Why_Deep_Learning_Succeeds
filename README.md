@@ -40,7 +40,7 @@ Experiments were performed on subsets of the MNIST, Fashion MNIST and CIFAR 10 d
   <img src="https://github.com/PRISHIta123/Why_Deep_Learning_Succeeds/blob/main/Figures/fig4.JPG?raw=true"/>
 </p>
 
-From the results, neither overparameterization, nor the backward feature correction algorithm can properly explain the success of deep learning. The actual superiority in the performance can be attributed to the overall network architecture of neural networks, designed to obtain more abstract representations from the input data with each successive layer or block, via subsampling (pruning ofquality inputs to each layer). However, the innermost abstraction should be just sufficient to capture the larger patterns and should not be too simple so as to hurt the basic discrimination ability. Therefore, the actual depth and width suitable for different applications requires experimentation and thus leads to development of new models. 
+From the results, neither overparameterization, nor the backward feature correction algorithm can properly explain the success of deep learning. The actual superiority in the performance can be attributed to the overall network architecture of neural networks, designed to obtain more abstract representations from the input data with each successive layer or block, via subsampling (pruning of quality inputs to each layer). However, the innermost abstraction should be just sufficient to capture the larger patterns and should not be too simple so as to hurt the basic discrimination ability. Therefore, the actual depth and width suitable for different applications requires experimentation and thus leads to development of new models. 
 
 #### References:
 
