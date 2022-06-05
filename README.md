@@ -21,10 +21,10 @@ Link for the code implementation for Paper 2:
 https://colab.research.google.com/drive/1SRVAIAwFKBCq89zP4GGTColutB0HCQKO?usp=sharing
 
 
-**Note:**
-i. To run the code for paper 1 (MFM1.ipynb), please change the runtime device in the Colab notebook by going to the top menu, select Runtime->Change Runtime Type-> From None, to GPU. This should be followed for both the CNNs and the infinite width CNTKs. 
-ii. To run the code for paper 2 (MFM2.ipynb), please change the runtime device in the Colab notebook by going to the top menu, select Runtime->Change Runtime Type-> From None, to GPU for the networks and to TPU for the NTKs. 
-iii. Please check comments asking to modify input features based on dataset used, or parameters to vary depth and width in the experiments.
+**Note:**  
+i. To run the code for paper 1 (MFM1.ipynb), please change the runtime device in the Colab notebook by going to the top menu, select Runtime->Change Runtime Type-> From None, to GPU. This should be followed for both the CNNs and the infinite width CNTKs.   
+ii. To run the code for paper 2 (MFM2.ipynb), please change the runtime device in the Colab notebook by going to the top menu, select Runtime->Change Runtime Type-> From None, to GPU for the networks and to TPU for the NTKs.  
+iii. Please check comments asking to modify input features based on dataset used, or parameters to vary depth and width in the experiments.  
 
 ### Results:
 
