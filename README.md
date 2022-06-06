@@ -31,8 +31,8 @@ iii. Please check comments asking to modify input features based on dataset used
 Experiments were performed on subsets of the MNIST, Fashion MNIST and CIFAR 10 datasets due to resource constraints. 
 
 <p align="center">
-  <img src="https://github.com/PRISHIta123/Why_Deep_Learning_Succeeds/blob/main/Tables/table1.JPG?raw=true" width="800" height="175"/>
-  <img src="https://github.com/PRISHIta123/Why_Deep_Learning_Succeeds/blob/main/Tables/table2.JPG?raw=true" width="500" height="150"/>
+  <img src="https://github.com/PRISHIta123/Why_Deep_Learning_Succeeds/blob/main/Tables/table1.JPG?raw=true"/>
+  <img src="https://github.com/PRISHIta123/Why_Deep_Learning_Succeeds/blob/main/Tables/table2.JPG?raw=true"/>
   <img src="https://github.com/PRISHIta123/Why_Deep_Learning_Succeeds/blob/main/Figures/fig1.JPG?raw=true"/>
   <img src="https://github.com/PRISHIta123/Why_Deep_Learning_Succeeds/blob/main/Tables/table3.JPG?raw=true"/>
   <img src="https://github.com/PRISHIta123/Why_Deep_Learning_Succeeds/blob/main/Figures/fig2.JPG?raw=true"/>
