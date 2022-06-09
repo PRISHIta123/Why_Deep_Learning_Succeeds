@@ -1,7 +1,7 @@
 # Reviewing Performance of Deep Neural Networks with Overparameterization and Backward Feature Correction  
 
 
-This project has been completed as part of the Mathematical Foundations of Machine Learning (CS5783) at Cornell University in Spring 2022 and is not for reproduction.  
+This project has been completed as part of the Mathematical Foundations of Machine Learning (CS5783) course at Cornell University in Spring 2022 and is not for reproduction.  
 
 Neural Networks of varying architectures are able to perform relatively well on benchmark classification datasets such as CIFAR-10, MNIST, etc. However, an exact understanding of how the increase in number of hyperparameters in these networks affects the SGD optimization process as well as final accuracy and generalization still poses a challenge. A kernel-based method, called Neural Tangent Kernel (NTK) is able to capture the behaviour of fully-connected deep nets in the infinite width limit trained by gradient descent. Therefore, combining Convolutional Neural Network architectures (CNNs) with NTK, as performed in [1] can be used to explore these questions and gain an intuition about the correlation of the network complexity with the classification accuracy. 
 
